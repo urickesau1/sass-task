@@ -13,5 +13,5 @@ SCSS
 Images
 Step 6. Add an "index.html" file in your main folder.
 Step 7.  Enter the command "sass --watch scss:css" in your Command Prompt.
-Step 8. Using your text-editor, link your stylesheet as css/main.scss.
+Step 8. Using your text-editor, link your as css/main.scss.
 Step 9. Edit your style as you wish in your text editor and save your progress.
